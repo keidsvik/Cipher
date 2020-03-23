@@ -1,3 +1,8 @@
 $(document).ready(function(){
-var sentence = 
+
+  var sentence = prompt("Enter a sentence."); {
+  
+  }
+  console.log(sentence)
+
 }
